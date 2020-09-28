@@ -1,0 +1,49 @@
+    1  VirtualBox --startvm XP
+    2  quartus
+    3  pwd
+    4  git clone
+    5  git clone https://github.com/MikusRi/RTR-105
+    6  ls -lt
+    7  cd RTR-105
+    8  ls -la
+    9  cat README.md
+   10  pwd
+   11  nano first.c
+   12  ls -lt
+   13  gcc first.c
+   14  ls -lt
+   15  ./a.out
+   16  echo $?
+   17  cat first.c
+   18  ls -lt
+   19  cp first.c second.c
+   20  nano second.c
+   21  ls - lt
+   22  ls -lt
+   23  gcc second.c
+   24  ls -lt
+   25  gcc first.c -o first.out
+   26  ls- lt
+   27  gcc second.c -o second.out
+   28  ls- lt
+   29  ls -lt
+   30  cat first.c
+   31  cat second.c
+   32  cp first.c HelloWorld.c
+   33  nano HelloWorld.c
+   34  gcc HelloWorldc
+   35  gcc HelloWorld.c
+   36  nano HelloWorld.c
+   37  gcc HelloWorld.c
+   38  nano HelloWorld.c
+   39  cat HelloWorld.c
+   40  nano HelloWorld.c
+   41  cat HelloWorld.c
+   42  ls -lt
+   43  nano HelloWolrd.c
+   44  nano HelloWorld.c
+   45  ls -lt
+   46  echo $?
+   47  nano HelloWorld.c
+   48  history
+   49  history > history_20200928.txt
