@@ -31,7 +31,7 @@ printf("int faktoriāls:: %d\n",c);
 
 if(k!=fabs(k) || k>20)
 {
-printf("long longnfaktoriālu ievadītajam skaitlim pareizi aprēķināt nav iespējams\n");
+printf("long long faktoriālu ievadītajam skaitlim pareizi aprēķināt nav iespējams\n");
 }
 else
 {
